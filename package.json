@@ -1,0 +1,22 @@
+{
+  "name": "header-parser-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshumehta1114/request-header-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshumehta1114/request-header-parser/issues"
+  },
+  "homepage": "https://github.com/himanshumehta1114/request-header-parser#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
